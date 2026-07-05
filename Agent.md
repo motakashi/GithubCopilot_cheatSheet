@@ -4,3 +4,5 @@
  - https://github.com/microsoft/skills
  - https://www.skills.sh/ （一部危険なものもあるので注意）
 
+# Skillsの基本構成
+## 最小構成
